@@ -2194,3 +2194,1004 @@ Make sure 'BP_CharacterCreator_C' has been compiled for  Set
 [2021.11.02-14.15.30:257][272]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MixedRealityAssignment/Maps/ConcertHall_BuiltData.ConcertHall_BuiltData
 [2021.11.02-14.15.30:257][272]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
 [2021.11.02-14.15.30:257][272]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-14.18.51:851][414]BlueprintLog: New page: Compile BP_CharacterCreator
+[2021.11.02-14.18.51:917][414]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.02-14.18.52:603][476]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_CharacterCreatorA0DFC9524E46B6343BA044A1B508BD06.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/BP_CharacterCreator.uasset'
+[2021.11.02-14.18.52:615][476]AssetCheck: New page: Asset Save: BP_CharacterCreator
+[2021.11.02-14.18.52:616][476]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-14.19.01:094][376]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_CharacterCreatorF2030DD64D80F7B4AD7244AA5A1BA336.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/BP_CharacterCreator.uasset'
+[2021.11.02-14.19.01:105][376]AssetCheck: New page: Asset Save: BP_CharacterCreator
+[2021.11.02-14.19.01:105][376]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-14.19.01:839][462]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2021.11.02-14.19.01:842][462]LogSlate: Window 'BP_PlayerCharacter' being destroyed
+[2021.11.02-14.19.01:873][462]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.19.01:873][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.19.01:983][462]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.02-14.19.01:983][462]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.19.01:983][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.19.02:065][462]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.02-14.19.02:065][462]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.19.02:065][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.19.41:278][887]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-14.19.42:927][990]LogRenderer: Reallocating scene render targets to support 1144x712 Format 10 NumSamples 1 (Frame:1).
+[2021.11.02-14.19.53:219][130]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.19.56:040][410]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.19.56:133][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.11.02-14.20.16:308][205]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.11.02-14.20.21:973][813]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MixedRealityAssignment/Blueprints/Crowd/BP_CrowdPerson.BP_CrowdPerson
+[2021.11.02-14.20.30:746][686]LogEditorTransaction: Undo Paste Component(s)
+[2021.11.02-14.20.53:433][946]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.20.53:530][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.11.02-14.21.09:213][430]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.02-14.22.37:890][908]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.22.37:959][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.02-14.23.54:345][501]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.23.54:436][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.11.02-14.23.59:755][902]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.02-14.24.39:649][839]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.24.40:068][850]LogEditorTransaction: Undo Edit Static Mesh
+[2021.11.02-14.24.40:076][850]LogActorComponent: ~FComponentReregisterContext: (/Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall:PersistentLevel.BP_PlayerCharacter_2.CharacterMesh0) Component already registered.
+[2021.11.02-14.24.40:079][850]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_7:PersistentLevel.BP_PlayerCharacter_C_0.CharacterMesh0) Component already registered.
+[2021.11.02-14.24.47:958][449]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.24.48:024][449]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.02-14.25.32:814][650]LogEditorTransaction: Undo Paste Component(s)
+[2021.11.02-14.25.54:975][360]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.25.55:045][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.02-14.26.37:548][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.11.02-14.26.37:577][741]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_Auto5059A42C24BE0AB996C9FACB5BC416250.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Maps/ConcertHall_Auto5.umap'
+[2021.11.02-14.26.37:578][741]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MixedRealityAssignment/Maps/ConcertHall' took 0.051
+[2021.11.02-14.26.37:578][741]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2021.11.02-14.26.37:579][741]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter] ([1] browsable assets)...
+[2021.11.02-14.26.37:596][741]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter]
+[2021.11.02-14.26.37:596][741]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter]
+[2021.11.02-14.26.37:647][741]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter_Auto5C1E732A0431BAED1CBEEA1B38C3FB08C.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter_Auto5.uasset'
+[2021.11.02-14.26.37:648][741]LogFileHelpers: Auto-saving content packages took 0.070
+[2021.11.02-14.37.34:151][704]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.02-14.37.34:181][704]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_Auto65A6F04414F3E72AF0E2897A4A7EEDA7C.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Maps/ConcertHall_Auto6.umap'
+[2021.11.02-14.37.34:183][704]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MixedRealityAssignment/Maps/ConcertHall' took 0.056
+[2021.11.02-14.37.34:183][704]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.056
+[2021.11.02-14.37.34:183][704]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter] ([1] browsable assets)...
+[2021.11.02-14.37.34:195][704]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter]
+[2021.11.02-14.37.34:195][704]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter]
+[2021.11.02-14.37.34:248][704]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter_Auto644EBD1B848081ABAE2569DAA84D9A224.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter_Auto6.uasset'
+[2021.11.02-14.37.34:249][704]LogFileHelpers: Auto-saving content packages took 0.066
+[2021.11.02-14.38.06:001][204]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.38.06:403][214]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.38.06:896][248]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.11.02-14.39.10:548][114]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.39.10:614][114]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.11.02-14.40.22:803][501]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.40.22:867][501]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.11.02-14.41.41:416][385]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.41.41:477][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.02-14.42.14:969][595]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.42.30:034][707]LogEditorTransaction: Undo Set Rotation
+[2021.11.02-14.42.30:457][718]LogEditorTransaction: Undo Set Location
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB900B8C5-4289-9F44-B234-D586B05E9D82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=16d9cf2c4f25170766be2b86b7cd11f6%7C45203cfa3cd94760b850ce08a387347e%7C2be94dbd-2dcc-45bc-82a8-7d5d436c05eb&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x271792cbf70 [can pipeline])
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 1 (Re-using existing connection! (#42) with host datarouter.ol.epicgames.com)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.222.244.202) port 443 (#42))
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.11.02-14.42.48:379][ 82]LogHttp: Warning: 000002721188E400: libcurl info message cache 7 (Closing connection 42)
+[2021.11.02-14.42.48:390][ 83]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB900B8C5-4289-9F44-B234-D586B05E9D82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=16d9cf2c4f25170766be2b86b7cd11f6%7C45203cfa3cd94760b850ce08a387347e%7C2be94dbd-2dcc-45bc-82a8-7d5d436c05eb&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.02-14.42.48:915][128]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.42.49:374][139]LogEditorTransaction: Undo Attach Components
+[2021.11.02-14.42.56:316][702]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.42.56:403][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.02-14.42.58:219][877]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.43.14:363][ 91]LogEditorTransaction: Undo Set Location
+[2021.11.02-14.43.19:594][488]LogEditorTransaction: Undo Set Location
+[2021.11.02-14.43.20:191][509]LogEditorTransaction: Undo Set Location
+[2021.11.02-14.43.22:403][715]LogEditorTransaction: Redo Set Location
+[2021.11.02-14.43.32:507][623]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.44.04:600][183]LogEditorTransaction: Undo Modify Component Scale
+[2021.11.02-14.44.36:797][454]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.44.40:529][779]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.44.48:443][377]LogHttp: Warning: 000002721BE3C100: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB900B8C5-4289-9F44-B234-D586B05E9D82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=16d9cf2c4f25170766be2b86b7cd11f6%7C45203cfa3cd94760b850ce08a387347e%7C2be94dbd-2dcc-45bc-82a8-7d5d436c05eb&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.11.02-14.44.48:443][377]LogHttp: Warning: 000002721BE3C100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2021.11.02-14.44.48:443][377]LogHttp: Warning: 000002721BE3C100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2021.11.02-14.44.48:443][377]LogHttp: Warning: 000002721BE3C100: libcurl info message cache 1 (Closing connection 43)
+[2021.11.02-14.44.48:443][377]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB900B8C5-4289-9F44-B234-D586B05E9D82%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=16d9cf2c4f25170766be2b86b7cd11f6%7C45203cfa3cd94760b850ce08a387347e%7C2be94dbd-2dcc-45bc-82a8-7d5d436c05eb&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.11.02-14.44.55:237][912]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.44.55:653][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.11.02-14.45.14:648][353]LogEditorTransaction: Undo Set Location
+[2021.11.02-14.45.16:192][450]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.45.17:555][576]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.45.17:636][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.11.02-14.45.43:057][825]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.45.43:069][825]LogBlueprint: Error: [Compiler BP_PlayerCharacter] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2021.11.02-14.45.43:112][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.11.02-14.46.19:003][343]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/StylizedModularChar/Meshes/SMC_PhysicsAsset.SMC_PhysicsAsset
+[2021.11.02-14.46.19:125][343]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0016 seconds. Added 8 classes and 3 folders.
+[2021.11.02-14.46.19:135][343]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2021.11.02-14.46.19:353][343]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.11.02-14.46.19:367][343]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0024 seconds. Added 1 classes and 0 folders.
+[2021.11.02-14.46.19:928][344]LogRenderer: Reallocating scene render targets to support 1144x884 Format 10 NumSamples 1 (Frame:1).
+[2021.11.02-14.46.21:171][422]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/StylizedModularChar/Meshes/SMC_Skeleton.SMC_Skeleton
+[2021.11.02-14.46.21:179][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.02-14.46.21:200][422]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.11.02-14.46.52:533][789]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.46.52:533][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.46.53:582][851]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.46.53:582][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.47.05:766][875]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.47.19:427][133]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.47.19:537][133]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.11.02-14.47.26:135][725]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.47.26:217][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.11.02-14.47.33:375][315]LogEditorTransaction: Undo Attach Components
+[2021.11.02-14.47.55:181][874]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.48.25:107][237]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.48.33:426][914]LogEditorTransaction: Undo Modify Component(s)
+[2021.11.02-14.49.25:863][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.11.02-14.49.25:898][344]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_Auto76F84F0BF45862F5933AC698C905D4AD4.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Maps/ConcertHall_Auto7.umap'
+[2021.11.02-14.49.25:900][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MixedRealityAssignment/Maps/ConcertHall' took 0.066
+[2021.11.02-14.49.25:900][344]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.066
+[2021.11.02-14.49.25:900][344]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter] ([1] browsable assets)...
+[2021.11.02-14.49.25:918][344]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter]
+[2021.11.02-14.49.25:918][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter]
+[2021.11.02-14.49.25:976][344]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter_Auto7B3826CA54DA71BC4E00B6F9E2E85463A.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter_Auto7.uasset'
+[2021.11.02-14.49.25:977][344]LogFileHelpers: Auto-saving content packages took 0.077
+[2021.11.02-14.50.40:526][276]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.50.40:586][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.11.02-14.50.42:835][498]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-14.50.42:841][498]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.11.02-14.50.42:843][498]LogPlayLevel: [PlayLevel] Compiling BP_CrowdPerson before play...
+[2021.11.02-14.50.42:922][498]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.11.02-14.50.42:924][498]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (1 blueprints)
+[2021.11.02-14.50.42:924][498]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 14:50:42)
+[2021.11.02-14.50.42:924][498]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.50.42:933][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009245s)
+[2021.11.02-14.50.42:934][498]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-14.50.42:934][498]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027223667C00), frame # 642498
+[2021.11.02-14.50.42:934][498]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271CDAE1300), frame # 642498
+[2021.11.02-14.50.42:934][498]LogPlayLevel: PIE: World Init took: (0.001083s)
+[2021.11.02-14.50.42:934][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.010455s)
+[2021.11.02-14.50.42:957][498]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-14.50.42:958][498]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-14.50.42:958][498]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-14.50.42:959][498]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-14.50.42:959][498]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-14.50.42:964][498]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-14.50.42:964][498]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-14.50.42:973][498]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-14.50.42:974][498]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-14.50.42:974][498]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-14.50.42:974][498]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-14.50.42:974][498]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-14.50.42:984][498]LogInit: FAudioDevice initialized.
+[2021.11.02-14.50.42:991][498]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-14.50.42:993][498]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-14.50.42
+[2021.11.02-14.50.42:993][498]LogWorld: Bringing up level for play took: 0.002119
+[2021.11.02-14.50.42:993][498]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.11.02-14.50.42:996][498]PIE: Server logged in
+[2021.11.02-14.50.42:996][498]PIE: Play in editor total start time 0.156 seconds.
+[2021.11.02-14.50.47:083][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.50.47:083][978]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.50.47:083][978]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.50.47:084][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.50.47:092][978]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-14.50.47:096][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.50.47:115][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.50.47:128][978]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271CDAE1300), frame # 642978
+[2021.11.02-14.50.47:128][978]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027223667C00), frame # 642978
+[2021.11.02-14.50.47:130][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.02-14.50.47:165][979]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.11.02-14.50.48:659][151]LogEditorViewport: Clicking on Actor (LMB): BP_PlayerCharacter_C (BP_PlayerCharacter)
+[2021.11.02-14.50.50:937][361]Cmd: DELETE
+[2021.11.02-14.50.50:937][361]Cmd: ACTOR DELETE
+[2021.11.02-14.50.50:946][361]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2021.11.02-14.50.50:972][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.02-14.50.50:976][361]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.11.02-14.50.52:187][496]Cmd: TRANSACTION UNDO
+[2021.11.02-14.50.52:187][496]LogEditorTransaction: Undo Delete Actors
+[2021.11.02-14.50.55:968][760]Cmd: DELETE
+[2021.11.02-14.50.55:968][760]Cmd: ACTOR DELETE
+[2021.11.02-14.50.55:970][760]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2021.11.02-14.50.55:995][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.11.02-14.50.55:998][760]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2021.11.02-14.50.57:149][893]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-14.50.57:155][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-14.50.57:155][893]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 14:50:57)
+[2021.11.02-14.50.57:182][893]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.50.57:189][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006919s)
+[2021.11.02-14.50.57:190][893]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-14.50.57:190][893]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027205FF1600), frame # 643893
+[2021.11.02-14.50.57:190][893]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000272143E5D00), frame # 643893
+[2021.11.02-14.50.57:190][893]LogPlayLevel: PIE: World Init took: (0.000958s)
+[2021.11.02-14.50.57:190][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.008070s)
+[2021.11.02-14.50.57:211][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-14.50.57:213][893]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-14.50.57:213][893]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-14.50.57:213][893]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-14.50.57:216][893]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-14.50.57:216][893]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-14.50.57:224][893]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-14.50.57:224][893]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-14.50.57:224][893]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-14.50.57:224][893]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-14.50.57:224][893]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-14.50.57:234][893]LogInit: FAudioDevice initialized.
+[2021.11.02-14.50.57:242][893]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-14.50.57:243][893]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-14.50.57
+[2021.11.02-14.50.57:244][893]LogWorld: Bringing up level for play took: 0.001232
+[2021.11.02-14.50.57:244][893]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.11.02-14.50.57:246][893]PIE: Server logged in
+[2021.11.02-14.50.57:247][893]PIE: Play in editor total start time 0.092 seconds.
+[2021.11.02-14.51.02:993][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.51.02:993][575]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.51.02:993][575]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.51.02:993][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.51.03:001][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-14.51.03:005][575]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.51.03:024][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.51.03:037][575]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000272143E5D00), frame # 644575
+[2021.11.02-14.51.03:037][575]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027205FF1600), frame # 644575
+[2021.11.02-14.51.03:039][575]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.11.02-14.51.03:073][576]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.11.02-14.51.04:019][658]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/StylizedModularChar/Meshes/SMC_PhysicsAsset.SMC_PhysicsAsset
+[2021.11.02-14.51.04:031][658]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.11.02-14.51.08:722][978]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.51.08:722][978]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.51.40:949][ 55]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-14.51.41:009][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.11.02-14.51.43:095][244]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-14.51.43:100][244]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-14.51.43:101][244]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 14:51:43)
+[2021.11.02-14.51.43:132][244]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.51.43:139][244]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007083s)
+[2021.11.02-14.51.43:140][244]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-14.51.43:140][244]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000272425DB000), frame # 648244
+[2021.11.02-14.51.43:140][244]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027208D682C0), frame # 648244
+[2021.11.02-14.51.43:140][244]LogPlayLevel: PIE: World Init took: (0.000941s)
+[2021.11.02-14.51.43:140][244]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.008172s)
+[2021.11.02-14.51.43:163][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-14.51.43:165][244]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-14.51.43:165][244]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-14.51.43:165][244]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-14.51.43:168][244]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-14.51.43:168][244]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-14.51.43:176][244]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-14.51.43:176][244]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-14.51.43:176][244]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-14.51.43:176][244]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-14.51.43:177][244]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-14.51.43:186][244]LogInit: FAudioDevice initialized.
+[2021.11.02-14.51.43:195][244]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-14.51.43:196][244]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-14.51.43
+[2021.11.02-14.51.43:197][244]LogWorld: Bringing up level for play took: 0.001134
+[2021.11.02-14.51.43:197][244]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.11.02-14.51.43:199][244]PIE: Server logged in
+[2021.11.02-14.51.43:199][244]PIE: Play in editor total start time 0.099 seconds.
+[2021.11.02-14.51.46:242][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.51.46:242][601]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-14.51.46:243][601]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-14.51.46:243][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.51.46:252][601]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-14.51.46:256][601]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-14.51.46:275][601]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-14.51.46:288][601]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027208D682C0), frame # 648601
+[2021.11.02-14.51.46:288][601]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000272425DB000), frame # 648601
+[2021.11.02-14.51.46:290][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.11.02-14.51.46:325][602]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.11.02-14.59.39:133][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.11.02-14.59.39:168][206]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_Auto897495D914DD0875FAA719D9822E1819D.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Maps/ConcertHall_Auto8.umap'
+[2021.11.02-14.59.39:169][206]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MixedRealityAssignment/Maps/ConcertHall' took 0.060
+[2021.11.02-14.59.39:169][206]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.060
+[2021.11.02-14.59.39:169][206]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter] ([1] browsable assets)...
+[2021.11.02-14.59.39:180][206]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter]
+[2021.11.02-14.59.39:180][206]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter]
+[2021.11.02-14.59.39:237][206]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter_Auto8F9B1585D46C79AAB89E24EBB8A0BE269.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter_Auto8.uasset'
+[2021.11.02-14.59.39:238][206]LogFileHelpers: Auto-saving content packages took 0.069
+[2021.11.02-15.11.45:008][213]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-15.11.48:781][513]Cmd: TRANSACTION UNDO
+[2021.11.02-15.11.48:782][513]LogEditorTransaction: Undo Add New Function
+[2021.11.02-15.13.41:244][963]BlueprintLog: New page: Compile BP_CharacterCreator
+[2021.11.02-15.13.41:305][963]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.02-15.14.14:360][702]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.11.02-15.16.52:453][128]LogEditorTransaction: Undo Change Class Pin Value
+[2021.11.02-15.17.24:218][365]BlueprintLog: New page: Compile BP_CharacterCreator
+[2021.11.02-15.17.24:280][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.02-15.17.36:475][281]BlueprintLog: New page: Compile BP_CharacterCreator
+[2021.11.02-15.17.36:534][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.11.02-15.18.08:595][981]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.02-15.18.08:603][981]LogSlate: Window 'Project Settings' being destroyed
+[2021.11.02-15.18.29:046][465]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.11.02-15.18.29:095][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.11.02-15.18.29:119][465]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHallDEFACC484564A80237AAB2A9361B98F3.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall.umap'
+[2021.11.02-15.18.29:136][465]LogFileHelpers: Saving map 'ConcertHall' took 0.067
+[2021.11.02-15.18.29:416][465]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_BuiltDataBCEB94AC44642E092A847E8709E8E844.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall_BuiltData.uasset'
+[2021.11.02-15.18.29:488][465]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter0347B6B64F2E95CD3380F3A9B9A975AC.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.18.29:517][465]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_CharacterCreator529766FD4A3DAEFEBA9C7FB2955552A1.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/BP_CharacterCreator.uasset'
+[2021.11.02-15.18.29:792][465]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_BuiltDataAEFEE2AE4E6EE520434A6584CD2FDC13.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall_BuiltData.uasset'
+[2021.11.02-15.18.29:822][465]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.02-15.18.29:822][465]LogContentValidation: Display: Validating World /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall
+[2021.11.02-15.18.29:822][465]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MixedRealityAssignment/Maps/ConcertHall_BuiltData.ConcertHall_BuiltData
+[2021.11.02-15.18.29:822][465]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.18.29:822][465]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-15.18.55:730][604]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.18.55:792][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.11.02-15.20.41:349][928]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.20.41:409][928]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.02-15.21.31:619][270]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.21.31:678][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.11.02-15.21.33:258][378]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter5EC5A70B453065B223ABAFB564122282.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.21.33:272][378]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.11.02-15.21.33:272][378]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.21.38:069][661]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.21.38:075][661]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.21.38:075][661]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:21:38)
+[2021.11.02-15.21.38:102][661]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.21.38:110][661]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008193s)
+[2021.11.02-15.21.38:111][661]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.21.38:111][661]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002721199FE00), frame # 838661
+[2021.11.02-15.21.38:111][661]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271456D8F40), frame # 838661
+[2021.11.02-15.21.38:111][661]LogPlayLevel: PIE: World Init took: (0.000929s)
+[2021.11.02-15.21.38:111][661]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009243s)
+[2021.11.02-15.21.38:145][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.21.38:147][661]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.21.38:147][661]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.21.38:148][661]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.21.38:148][661]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.21.38:151][661]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.21.38:151][661]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.21.38:161][661]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.21.38:161][661]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.21.38:161][661]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.21.38:161][661]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.21.38:162][661]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.21.38:171][661]LogInit: FAudioDevice initialized.
+[2021.11.02-15.21.38:179][661]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.21.38:180][661]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.21.38
+[2021.11.02-15.21.38:181][661]LogWorld: Bringing up level for play took: 0.001175
+[2021.11.02-15.21.38:181][661]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.11.02-15.21.38:184][661]PIE: Server logged in
+[2021.11.02-15.21.38:184][661]PIE: Play in editor total start time 0.11 seconds.
+[2021.11.02-15.21.42:564][ 46]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.21.45:149][276]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.22.09:252][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.22.09:252][249]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.22.09:253][249]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.22.09:253][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.22.09:273][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.22.09:276][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.22.09:310][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.22.09:311][249]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271456D8F40), frame # 841249
+[2021.11.02-15.22.09:311][249]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002721199FE00), frame # 841249
+[2021.11.02-15.22.09:314][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.11.02-15.22.09:360][250]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.11.02-15.23.15:537][ 17]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.23.15:595][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.11.02-15.23.20:791][482]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.23.20:798][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.23.20:798][482]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:23:20)
+[2021.11.02-15.23.20:798][482]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.23.20:807][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008851s)
+[2021.11.02-15.23.20:807][482]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.23.20:808][482]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000272477F1A00), frame # 847482
+[2021.11.02-15.23.20:808][482]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027144E8C7C0), frame # 847482
+[2021.11.02-15.23.20:808][482]LogPlayLevel: PIE: World Init took: (0.001038s)
+[2021.11.02-15.23.20:808][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.010014s)
+[2021.11.02-15.23.20:834][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.23.20:836][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.23.20:836][482]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.23.20:836][482]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.23.20:839][482]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.23.20:839][482]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.23.20:848][482]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.23.20:848][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.23.20:848][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.23.20:848][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.23.20:849][482]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.23.20:858][482]LogInit: FAudioDevice initialized.
+[2021.11.02-15.23.20:867][482]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.23.20:868][482]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.23.20
+[2021.11.02-15.23.20:869][482]LogWorld: Bringing up level for play took: 0.001461
+[2021.11.02-15.23.20:869][482]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.11.02-15.23.20:872][482]PIE: Server logged in
+[2021.11.02-15.23.20:872][482]PIE: Play in editor total start time 0.075 seconds.
+[2021.11.02-15.23.23:955][768]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2021.11.02-15.23.23:955][768]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:InpActEvt_ConfirmCharacterCreation_K2Node_InputActionEvent_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh
+
+[2021.11.02-15.23.35:074][768]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.00:508][768]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] Hello
+[2021.11.02-15.24.00:532][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.24.00:532][768]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.24.00:533][768]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.24.00:533][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.24.00:555][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.24.00:559][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.24.00:595][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.24.00:596][768]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027144E8C7C0), frame # 847768
+[2021.11.02-15.24.00:596][768]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000272477F1A00), frame # 847768
+[2021.11.02-15.24.00:599][768]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.11.02-15.24.00:639][769]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.11.02-15.24.20:981][729]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.24.21:038][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2021.11.02-15.24.37:892][192]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.24.37:901][192]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.24.37:901][192]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:24:37)
+[2021.11.02-15.24.37:901][192]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.24.37:909][192]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007796s)
+[2021.11.02-15.24.37:909][192]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.24.37:909][192]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000271B204AA00), frame # 851192
+[2021.11.02-15.24.37:910][192]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271C0731940), frame # 851192
+[2021.11.02-15.24.37:910][192]LogPlayLevel: PIE: World Init took: (0.001005s)
+[2021.11.02-15.24.37:910][192]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.008919s)
+[2021.11.02-15.24.37:937][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.24.37:941][192]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.24.37:941][192]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.24.37:941][192]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.24.37:944][192]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.24.37:944][192]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.24.37:953][192]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.24.37:953][192]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.24.37:953][192]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.24.37:953][192]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.24.37:953][192]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.24.37:963][192]LogInit: FAudioDevice initialized.
+[2021.11.02-15.24.37:974][192]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.24.37:976][192]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.24.37
+[2021.11.02-15.24.37:976][192]LogWorld: Bringing up level for play took: 0.001703
+[2021.11.02-15.24.37:977][192]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.11.02-15.24.37:979][192]PIE: Server logged in
+[2021.11.02-15.24.37:979][192]PIE: Play in editor total start time 0.082 seconds.
+[2021.11.02-15.24.42:866][556]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.43:864][631]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.44:835][704]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.45:197][731]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.45:424][748]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.45:621][763]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.45:820][778]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.46:010][792]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.24.46:802][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.24.46:802][848]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.24.46:802][848]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.24.46:803][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.24.46:817][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.24.46:821][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.24.46:855][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.24.46:856][848]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271C0731940), frame # 851848
+[2021.11.02-15.24.46:856][848]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000271B204AA00), frame # 851848
+[2021.11.02-15.24.46:858][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.11.02-15.24.46:915][849]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.11.02-15.25.28:181][486]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.25.28:242][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.11.02-15.25.29:120][555]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.25.29:126][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.25.29:126][555]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:25:29)
+[2021.11.02-15.25.29:127][555]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.25.29:135][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008495s)
+[2021.11.02-15.25.29:136][555]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.25.29:136][555]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002722DE89200), frame # 855555
+[2021.11.02-15.25.29:136][555]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271F1724A40), frame # 855555
+[2021.11.02-15.25.29:136][555]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2021.11.02-15.25.29:136][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009554s)
+[2021.11.02-15.25.29:162][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.25.29:163][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.25.29:163][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.25.29:164][555]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.25.29:164][555]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.25.29:167][555]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.25.29:167][555]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.25.29:175][555]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.25.29:175][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.25.29:175][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.25.29:175][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.25.29:175][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.25.29:185][555]LogInit: FAudioDevice initialized.
+[2021.11.02-15.25.29:195][555]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.25.29:196][555]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.25.29
+[2021.11.02-15.25.29:197][555]LogWorld: Bringing up level for play took: 0.001662
+[2021.11.02-15.25.29:197][555]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.11.02-15.25.29:199][555]PIE: Server logged in
+[2021.11.02-15.25.29:200][555]PIE: Play in editor total start time 0.074 seconds.
+[2021.11.02-15.25.34:400][ 67]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.34:405][ 67]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_CrowdPerson_2.CharacterMesh0 SK_SpaceSuit_Chest
+[2021.11.02-15.25.37:017][326]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.37:017][326]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_CrowdPerson_2.CharacterMesh0 SK_Soldier_Chest
+[2021.11.02-15.25.38:241][447]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.38:241][447]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_CrowdPerson_2.CharacterMesh0 SK_Smoking_Chest
+[2021.11.02-15.25.39:202][541]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.39:202][541]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_CrowdPerson_2.CharacterMesh0 SK_Cop_Chest
+[2021.11.02-15.25.40:192][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.25.40:192][633]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.25.40:192][633]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.25.40:192][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.25.40:208][633]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.25.40:213][633]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.25.40:246][633]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.25.40:247][633]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271F1724A40), frame # 856633
+[2021.11.02-15.25.40:247][633]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002722DE89200), frame # 856633
+[2021.11.02-15.25.40:250][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.11.02-15.25.40:303][634]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.11.02-15.25.46:418][176]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.25.46:480][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.11.02-15.25.48:393][344]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.25.48:399][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.25.48:399][344]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:25:48)
+[2021.11.02-15.25.48:421][344]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.25.48:430][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008865s)
+[2021.11.02-15.25.48:431][344]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.25.48:431][344]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002720518FA00), frame # 857344
+[2021.11.02-15.25.48:431][344]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000027240A4A340), frame # 857344
+[2021.11.02-15.25.48:431][344]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2021.11.02-15.25.48:431][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009997s)
+[2021.11.02-15.25.48:456][344]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.25.48:458][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.25.48:458][344]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.25.48:458][344]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.25.48:461][344]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.25.48:462][344]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.25.48:469][344]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.25.48:469][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.25.48:469][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.25.48:469][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.25.48:470][344]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.25.48:479][344]LogInit: FAudioDevice initialized.
+[2021.11.02-15.25.48:486][344]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.25.48:488][344]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.25.48
+[2021.11.02-15.25.48:488][344]LogWorld: Bringing up level for play took: 0.001652
+[2021.11.02-15.25.48:488][344]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2021.11.02-15.25.48:491][344]PIE: Server logged in
+[2021.11.02-15.25.48:491][344]PIE: Play in editor total start time 0.093 seconds.
+[2021.11.02-15.25.51:037][593]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.51:037][593]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] SK_Casual_Chest
+[2021.11.02-15.25.52:157][702]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.52:157][702]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] SK_Cop_Chest
+[2021.11.02-15.25.53:012][787]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.25.53:013][787]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] SK_Smoking_Chest
+[2021.11.02-15.25.54:021][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.25.54:021][884]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.25.54:022][884]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.25.54:022][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.25.54:039][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.25.54:044][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.25.54:077][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.25.54:079][884]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000027240A4A340), frame # 857884
+[2021.11.02-15.25.54:079][884]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002720518FA00), frame # 857884
+[2021.11.02-15.25.54:081][884]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.11.02-15.25.54:134][885]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2021.11.02-15.26.01:992][591]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.26.02:055][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.02-15.26.03:035][670]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.26.03:041][670]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.26.03:041][670]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:26:03)
+[2021.11.02-15.26.03:041][670]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.26.03:050][670]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008416s)
+[2021.11.02-15.26.03:050][670]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.26.03:050][670]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002715B9A3000), frame # 858670
+[2021.11.02-15.26.03:051][670]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271D002E480), frame # 858670
+[2021.11.02-15.26.03:051][670]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2021.11.02-15.26.03:051][670]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009680s)
+[2021.11.02-15.26.03:076][670]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.26.03:078][670]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.26.03:078][670]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.26.03:078][670]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.26.03:081][670]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.26.03:081][670]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.26.03:089][670]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.26.03:089][670]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.26.03:089][670]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.26.03:089][670]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.26.03:090][670]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.26.03:099][670]LogInit: FAudioDevice initialized.
+[2021.11.02-15.26.03:107][670]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.26.03:109][670]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.26.03
+[2021.11.02-15.26.03:109][670]LogWorld: Bringing up level for play took: 0.001675
+[2021.11.02-15.26.03:109][670]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2021.11.02-15.26.03:112][670]PIE: Server logged in
+[2021.11.02-15.26.03:112][670]PIE: Play in editor total start time 0.072 seconds.
+[2021.11.02-15.26.05:218][879]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.26.05:218][879]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_PlayerCharacter_C_0.CharacterMesh0 SK_SpaceSuit_Chest
+[2021.11.02-15.26.06:747][ 32]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.26.06:747][ 32]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_PlayerCharacter_C_0.CharacterMesh0 SK_Soldier_Chest
+[2021.11.02-15.26.07:389][ 96]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.26.07:389][ 96]LogBlueprintUserMessages: [BP_PlayerCharacter_C_0] BP_PlayerCharacter_C_0.CharacterMesh0 SK_Smoking_Chest
+[2021.11.02-15.26.08:752][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.26.08:752][226]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.26.08:752][226]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.26.08:753][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.26.08:769][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.26.08:774][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.26.08:807][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.26.08:808][226]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271D002E480), frame # 859226
+[2021.11.02-15.26.08:808][226]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002715B9A3000), frame # 859226
+[2021.11.02-15.26.08:811][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.02-15.26.08:867][227]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2021.11.02-15.26.16:674][892]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.26.16:737][892]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.11.02-15.26.17:560][953]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter892C67C642BED2739021739398701B7A.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.26.17:573][953]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.11.02-15.26.17:573][953]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.27.16:646][231]Cmd: DELETE
+[2021.11.02-15.27.16:646][231]Cmd: ACTOR DELETE
+[2021.11.02-15.27.16:649][231]LogEditorActor: Deleted Actor: BP_PlayerCharacter_C
+[2021.11.02-15.27.16:681][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.11.02-15.27.16:683][231]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2021.11.02-15.28.10:850][ 14]LogEditorTransaction: Undo Straighten Connection(s)
+[2021.11.02-15.28.53:741][901]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.28.53:801][901]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.11.02-15.30.36:003][882]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.30.36:067][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.11.02-15.30.37:403][996]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter09F32F84466B951B6542D8B590D980AB.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.30.37:416][996]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.11.02-15.30.37:416][996]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.30.45:820][755]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.30.45:827][755]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.30.45:827][755]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:30:45)
+[2021.11.02-15.30.45:851][755]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.30.45:860][755]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008893s)
+[2021.11.02-15.30.45:861][755]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.30.45:861][755]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000271A0886A00), frame # 883755
+[2021.11.02-15.30.45:861][755]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271D002DE40), frame # 883755
+[2021.11.02-15.30.45:861][755]LogPlayLevel: PIE: World Init took: (0.000926s)
+[2021.11.02-15.30.45:861][755]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009948s)
+[2021.11.02-15.30.45:886][755]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.30.45:888][755]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.30.45:888][755]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.30.45:889][755]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.30.45:889][755]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.30.45:892][755]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.30.45:892][755]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.30.45:901][755]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.30.45:901][755]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.30.45:901][755]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.30.45:901][755]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.30.45:902][755]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.30.45:911][755]LogInit: FAudioDevice initialized.
+[2021.11.02-15.30.45:920][755]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.30.45:922][755]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.30.45
+[2021.11.02-15.30.45:922][755]LogWorld: Bringing up level for play took: 0.001422
+[2021.11.02-15.30.45:922][755]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.11.02-15.30.45:925][755]PIE: Server logged in
+[2021.11.02-15.30.45:925][755]PIE: Play in editor total start time 0.099 seconds.
+[2021.11.02-15.30.47:447][892]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.30.47:447][892]LogScript: Warning: Accessed None trying to read property CallFunc_GetMeshComponents_Hair
+	BP_PlayerCharacter_C /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh:01A5
+[2021.11.02-15.30.47:447][892]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetMeshComponents_Hair". Blueprint:  BP_PlayerCharacter Function:  Update Player Mesh Graph:  UpdatePlayerMesh Node:  Set Static Mesh
+[2021.11.02-15.30.49:711][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.30.49:711][ 97]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.30.49:711][ 97]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.30.49:712][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.30.49:723][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.30.49:727][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.30.49:761][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.30.49:762][ 97]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271D002DE40), frame # 884097
+[2021.11.02-15.30.49:762][ 97]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000271A0886A00), frame # 884097
+[2021.11.02-15.30.49:764][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.02-15.30.49:858][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.11.02-15.31.42:302][860]LogEditorTransaction: Undo Break Pin Links
+[2021.11.02-15.31.55:237][ 28]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.31.55:297][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.11.02-15.31.59:063][361]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.31.59:124][361]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.11.02-15.32.00:105][444]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.32.00:111][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.32.00:111][444]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:32:00)
+[2021.11.02-15.32.00:112][444]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.32.00:121][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009481s)
+[2021.11.02-15.32.00:122][444]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.32.00:122][444]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000272486B8600), frame # 890444
+[2021.11.02-15.32.00:122][444]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002714C60D6C0), frame # 890444
+[2021.11.02-15.32.00:122][444]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2021.11.02-15.32.00:122][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.010606s)
+[2021.11.02-15.32.00:149][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.32.00:151][444]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.32.00:151][444]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.32.00:151][444]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.32.00:155][444]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.32.00:155][444]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.32.00:164][444]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.32.00:164][444]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.32.00:164][444]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.32.00:164][444]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.32.00:164][444]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.32.00:175][444]LogInit: FAudioDevice initialized.
+[2021.11.02-15.32.00:181][444]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.32.00:183][444]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.32.00
+[2021.11.02-15.32.00:183][444]LogWorld: Bringing up level for play took: 0.001266
+[2021.11.02-15.32.00:183][444]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2021.11.02-15.32.00:186][444]PIE: Server logged in
+[2021.11.02-15.32.00:186][444]PIE: Play in editor total start time 0.076 seconds.
+[2021.11.02-15.32.01:087][529]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.01:655][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.01:846][604]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.02:017][621]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.02:188][638]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.03:142][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.32.03:142][729]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.32.03:142][729]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.32.03:143][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.32.03:157][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.32.03:161][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.32.03:195][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.32.03:196][729]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002714C60D6C0), frame # 890729
+[2021.11.02-15.32.03:196][729]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000272486B8600), frame # 890729
+[2021.11.02-15.32.03:198][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.11.02-15.32.03:239][730]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2021.11.02-15.32.07:095][ 55]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2021.11.02-15.32.07:155][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.11.02-15.32.07:712][ 88]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacterE09BD6D24DD1E986EB26DB9919F507BA.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.32.07:726][ 88]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2021.11.02-15.32.07:726][ 88]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.32.08:518][148]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.32.08:524][148]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.32.08:524][148]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:32:08)
+[2021.11.02-15.32.08:524][148]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.32.08:533][148]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008731s)
+[2021.11.02-15.32.08:534][148]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.32.08:534][148]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027233535000), frame # 891148
+[2021.11.02-15.32.08:534][148]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002715F8F87C0), frame # 891148
+[2021.11.02-15.32.08:534][148]LogPlayLevel: PIE: World Init took: (0.000991s)
+[2021.11.02-15.32.08:534][148]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009866s)
+[2021.11.02-15.32.08:560][148]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.32.08:561][148]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.32.08:561][148]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.32.08:562][148]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.32.08:562][148]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.32.08:565][148]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.32.08:565][148]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.32.08:572][148]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.32.08:573][148]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.32.08:573][148]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.32.08:573][148]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.32.08:573][148]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.32.08:582][148]LogInit: FAudioDevice initialized.
+[2021.11.02-15.32.08:592][148]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.32.08:593][148]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.32.08
+[2021.11.02-15.32.08:594][148]LogWorld: Bringing up level for play took: 0.001141
+[2021.11.02-15.32.08:594][148]LogOnline: OSS: Creating online subsystem instance for: :Context_46
+[2021.11.02-15.32.08:596][148]PIE: Server logged in
+[2021.11.02-15.32.08:597][148]PIE: Play in editor total start time 0.073 seconds.
+[2021.11.02-15.32.09:477][233]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.09:477][233]LogScript: Warning: Accessed None trying to read property CallFunc_GetMeshComponents_Hair
+	BP_PlayerCharacter_C /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh:01A5
+[2021.11.02-15.32.09:477][233]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetMeshComponents_Hair". Blueprint:  BP_PlayerCharacter Function:  Update Player Mesh Graph:  UpdatePlayerMesh Node:  Set Static Mesh
+[2021.11.02-15.32.09:992][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.32.09:992][281]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.32.09:992][281]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.32.09:992][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.32.10:005][281]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.32.10:009][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.32.10:043][281]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.32.10:044][281]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002715F8F87C0), frame # 891281
+[2021.11.02-15.32.10:044][281]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027233535000), frame # 891281
+[2021.11.02-15.32.10:046][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.11.02-15.32.10:123][282]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2021.11.02-15.32.38:020][699]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.32.38:027][699]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.32.38:027][699]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:32:38)
+[2021.11.02-15.32.38:027][699]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.32.38:035][699]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008325s)
+[2021.11.02-15.32.38:036][699]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.32.38:036][699]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002724A22DC00), frame # 893699
+[2021.11.02-15.32.38:036][699]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271E67B2C00), frame # 893699
+[2021.11.02-15.32.38:036][699]LogPlayLevel: PIE: World Init took: (0.001004s)
+[2021.11.02-15.32.38:036][699]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.009445s)
+[2021.11.02-15.32.38:060][699]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.32.38:062][699]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.32.38:063][699]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.32.38:063][699]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.32.38:063][699]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.32.38:063][699]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.32.38:066][699]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.32.38:066][699]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.32.38:074][699]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.32.38:074][699]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.32.38:074][699]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.32.38:074][699]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.32.38:075][699]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.32.38:084][699]LogInit: FAudioDevice initialized.
+[2021.11.02-15.32.38:088][699]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.32.38:089][699]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.32.38
+[2021.11.02-15.32.38:090][699]LogWorld: Bringing up level for play took: 0.001172
+[2021.11.02-15.32.38:090][699]LogOnline: OSS: Creating online subsystem instance for: :Context_47
+[2021.11.02-15.32.38:093][699]PIE: Server logged in
+[2021.11.02-15.32.38:093][699]PIE: Play in editor total start time 0.067 seconds.
+[2021.11.02-15.32.38:922][778]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByTag_ReturnValue' of length 0 in '/Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator_C:GetMeshComponents'!
+[2021.11.02-15.32.38:922][778]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetStaticMesh', from offset 365
+[2021.11.02-15.32.38:922][778]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:InpActEvt_ConfirmCharacterCreation_K2Node_InputActionEvent_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh
+
+[2021.11.02-15.33.05:389][778]LogScript: Warning: Accessed None trying to read property CallFunc_GetMeshComponents_Hair
+	BP_PlayerCharacter_C /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall:PersistentLevel.BP_PlayerCharacter_C_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh:01A5
+[2021.11.02-15.33.05:390][778]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetMeshComponents_Hair". Blueprint:  BP_PlayerCharacter Function:  Update Player Mesh Graph:  UpdatePlayerMesh Node:  Set Static Mesh
+[2021.11.02-15.33.05:412][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.33.05:412][778]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.33.05:412][778]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.33.05:412][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.05:433][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.33.05:437][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.05:471][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.33.05:472][778]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271E67B2C00), frame # 893778
+[2021.11.02-15.33.05:472][778]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002724A22DC00), frame # 893778
+[2021.11.02-15.33.05:474][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.11.02-15.33.05:551][779]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2021.11.02-15.33.08:617][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.11.02-15.33.08:643][ 30]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_Auto9380AEBC1404F69AE7279658132FD14F0.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Maps/ConcertHall_Auto9.umap'
+[2021.11.02-15.33.08:644][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MixedRealityAssignment/Maps/ConcertHall' took 0.051
+[2021.11.02-15.33.08:644][ 30]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.051
+[2021.11.02-15.33.08:645][ 30]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter] ([1] browsable assets)...
+[2021.11.02-15.33.08:645][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter]
+[2021.11.02-15.33.08:701][ 30]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter_Auto9723056E042C58D056D57F7ABEA753652.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/Autosaves/Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter_Auto9.uasset'
+[2021.11.02-15.33.08:703][ 30]LogFileHelpers: Auto-saving content packages took 0.059
+[2021.11.02-15.33.16:308][731]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_CharacterCreator0E732E4C479F8876AFD9DEB2A1062100.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/BP_CharacterCreator.uasset'
+[2021.11.02-15.33.16:322][731]AssetCheck: New page: Asset Save: BP_CharacterCreator
+[2021.11.02-15.33.16:322][731]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/BP_CharacterCreator.BP_CharacterCreator
+[2021.11.02-15.33.17:022][786]BlueprintLog: New page: Compile BP_CharacterCreator
+[2021.11.02-15.33.17:074][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.11.02-15.33.18:070][868]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.02-15.33.18:076][868]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.02-15.33.18:076][868]PIE: New page: PIE session: ConcertHall (2 Nov 2021, 15:33:18)
+[2021.11.02-15.33.18:077][868]LogPlayLevel: Creating play world package: /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.33.18:085][868]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008019s)
+[2021.11.02-15.33.18:085][868]LogAIModule: Creating AISystem for world ConcertHall
+[2021.11.02-15.33.18:086][868]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000027132472000), frame # 894868
+[2021.11.02-15.33.18:086][868]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000271444B82C0), frame # 894868
+[2021.11.02-15.33.18:086][868]LogPlayLevel: PIE: World Init took: (0.000868s)
+[2021.11.02-15.33.18:086][868]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall to /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall (0.008996s)
+[2021.11.02-15.33.18:111][868]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.02-15.33.18:113][868]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.02-15.33.18:113][868]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.02-15.33.18:113][868]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.02-15.33.18:116][868]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.02-15.33.18:116][868]LogAudioMixer: Display: 1: FrontRight
+[2021.11.02-15.33.18:124][868]LogAudioMixer: Display: Using Audio Device Speakers (2- High Definition Audio Device)
+[2021.11.02-15.33.18:124][868]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.02-15.33.18:124][868]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.02-15.33.18:124][868]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.02-15.33.18:124][868]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.02-15.33.18:134][868]LogInit: FAudioDevice initialized.
+[2021.11.02-15.33.18:145][868]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.11.02-15.33.18:146][868]LogWorld: Bringing World /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall.ConcertHall up for play (max tick rate 0) at 2021.11.02-15.33.18
+[2021.11.02-15.33.18:147][868]LogWorld: Bringing up level for play took: 0.001171
+[2021.11.02-15.33.18:147][868]LogOnline: OSS: Creating online subsystem instance for: :Context_48
+[2021.11.02-15.33.18:149][868]PIE: Server logged in
+[2021.11.02-15.33.18:150][868]PIE: Play in editor total start time 0.074 seconds.
+[2021.11.02-15.33.18:880][935]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SetStaticMesh', from offset 365
+[2021.11.02-15.33.18:880][935]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:InpActEvt_ConfirmCharacterCreation_K2Node_InputActionEvent_0
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:ExecuteUbergraph_BP_PlayerCharacter
+	Function /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter_C:UpdatePlayerMesh
+
+[2021.11.02-15.33.23:872][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.33.23:872][ 28]LogWorld: BeginTearingDown for /Game/MixedRealityAssignment/Maps/UEDPIE_0_ConcertHall
+[2021.11.02-15.33.23:872][ 28]LogWorld: UWorld::CleanupWorld for ConcertHall, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.33.23:872][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.23:884][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.02-15.33.23:888][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.23:922][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.02-15.33.23:923][ 28]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000271444B82C0), frame # 895028
+[2021.11.02-15.33.23:923][ 28]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000027132472000), frame # 895028
+[2021.11.02-15.33.23:925][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.11.02-15.33.23:968][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2021.11.02-15.33.27:818][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.11.02-15.33.27:870][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.11.02-15.33.27:889][373]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHallD6B1C6284BA27C5799D3B4896459288A.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall.umap'
+[2021.11.02-15.33.27:901][373]LogFileHelpers: Saving map 'ConcertHall' took 0.054
+[2021.11.02-15.33.28:169][373]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_BuiltDataB029AA824BDD9106BCE5FF92FBD6B289.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall_BuiltData.uasset'
+[2021.11.02-15.33.28:256][373]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/BP_PlayerCharacter8BE75E9749445A3368ECDB87980C13C2.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.uasset'
+[2021.11.02-15.33.28:537][373]LogSavePackage: Moving '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Saved/ConcertHall_BuiltData811FBB444BDED7EEE5ADB68F2FBCFB6D.tmp' to '../../../../../../Users/FiercePC/Documents/GitHub/MixedRealities/MixedRealities/Content/MixedRealityAssignment/Maps/ConcertHall_BuiltData.uasset'
+[2021.11.02-15.33.28:560][373]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.02-15.33.28:561][373]LogContentValidation: Display: Validating World /Game/MixedRealityAssignment/Maps/ConcertHall.ConcertHall
+[2021.11.02-15.33.28:561][373]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/MixedRealityAssignment/Maps/ConcertHall_BuiltData.ConcertHall_BuiltData
+[2021.11.02-15.33.28:561][373]LogContentValidation: Display: Validating Blueprint /Game/MixedRealityAssignment/Blueprints/PlayerCharacter/BP_PlayerCharacter.BP_PlayerCharacter
+[2021.11.02-15.33.29:538][464]LogSlate: Window 'BP_CharacterCreator' being destroyed
+[2021.11.02-15.33.29:542][464]LogSlate: Window 'BP_CharacterCreator' being destroyed
+[2021.11.02-15.33.29:545][464]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.33.29:545][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.29:658][464]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.02-15.33.29:658][464]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.33.29:658][464]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.02-15.33.30:715][572]LogSlate: Window 'BP_CrowdPerson' being destroyed
+[2021.11.02-15.33.30:719][572]LogSlate: Window 'BP_CrowdPerson' being destroyed
+[2021.11.02-15.33.30:741][572]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.11.02-15.33.30:741][572]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.02-15.33.30:741][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
